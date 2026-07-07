@@ -84,5 +84,5 @@ Provides hands-on experience in backend development using FastAPI.<br>
 Improves understanding of full-stack application architecture.<br>
 6️⃣ Screenshot of Dashboard <br>
 
-![Home Dashboard](https://github.com/ShubhamW1107/spotify-listening-analytics-dashboard/blob/main/Spotify_Dashboard.jpg)<br>
-![Home Dashboard](https://github.com/ShubhamW1107/spotify-listening-analytics-dashboard/blob/main/Spotify_Dashboard.jpg)<br>
+![Home Dashboard](https://github.com/ShubhamW1107/fastapi-inventory-management-system/blob/main/fastapi.png)<br>
+![Swagger UI](https://github.com/ShubhamW1107/fastapi-inventory-management-system/blob/main/fastapi2.png)<br>
