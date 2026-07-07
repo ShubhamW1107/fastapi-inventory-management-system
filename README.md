@@ -1,4 +1,4 @@
-# spotify-listening-analytics-dashboard
+# inventory-management-system
 1️⃣ Headline<br>
 A full-stack Inventory Management System built using FastAPI, SQLAlchemy, Microsoft SQL Server, HTML, CSS, JavaScript, and Bootstrap. The application provides a responsive web interface and RESTful APIs to efficiently manage product inventory through complete CRUD operations.
 2️⃣ Purpose<br>
