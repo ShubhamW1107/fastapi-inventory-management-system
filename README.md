@@ -39,12 +39,12 @@ Many small businesses manage inventory manually using spreadsheets or paper reco
 6) Managing products through a centralized web application improves efficiency and simplifies inventory operations.<br>
 Goal of the Project<br>
 The objective of this project is to build a simple and user-friendly Inventory Management System that:<br>
-1) Allows users to manage product records efficiently.<br>
-2) Performs complete CRUD operations using REST APIs.<br>
-3) Stores inventory data securely in Microsoft SQL Server.<br>
-4) Demonstrates backend development using FastAPI.<br>
-5) Provides an easy-to-use responsive web interface.<br>
-6) Enables API testing through Swagger UI.<br>
+Allows users to manage product records efficiently.<br>
+Performs complete CRUD operations using REST APIs.<br>
+Stores inventory data securely in Microsoft SQL Server.<br>
+Demonstrates backend development using FastAPI.<br>
+Provides an easy-to-use responsive web interface.<br>
+Enables API testing through Swagger UI.<br>
 Walkthrough of Key Features<br>
 🔹 Dashboard<br>
 Responsive user interface<br>
