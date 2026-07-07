@@ -36,7 +36,7 @@ Many small businesses manage inventory manually using spreadsheets or paper reco
 3) Time-consuming product searches<br>
 4) Poor inventory tracking<br>
 5) Increased chances of human error<br>
-Managing products through a centralized web application improves efficiency and simplifies inventory operations.<br>
+6) Managing products through a centralized web application improves efficiency and simplifies inventory operations.<br>
 Goal of the Project<br>
 The objective of this project is to build a simple and user-friendly Inventory Management System that:<br>
 1) Allows users to manage product records efficiently.<br>
