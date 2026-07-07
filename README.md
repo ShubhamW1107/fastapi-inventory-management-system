@@ -31,20 +31,20 @@ The data is managed through REST APIs developed using FastAPI and stored permane
 5️⃣ Features<br>
 Business Problem<br>
 Many small businesses manage inventory manually using spreadsheets or paper records, which can lead to:<br>
-Duplicate product entries<br>
-Difficulty updating inventory<br>
-Time-consuming product searches<br>
-Poor inventory tracking<br>
-Increased chances of human error<br>
+1) Duplicate product entries<br>
+2) Difficulty updating inventory<br>
+3) Time-consuming product searches<br>
+4) Poor inventory tracking<br>
+5) Increased chances of human error<br>
 Managing products through a centralized web application improves efficiency and simplifies inventory operations.<br>
 Goal of the Project<br>
 The objective of this project is to build a simple and user-friendly Inventory Management System that:<br>
-Allows users to manage product records efficiently.<br>
-Performs complete CRUD operations using REST APIs.<br>
-Stores inventory data securely in Microsoft SQL Server.<br>
-Demonstrates backend development using FastAPI.<br>
-Provides an easy-to-use responsive web interface.<br>
-Enables API testing through Swagger UI.<br>
+1) Allows users to manage product records efficiently.<br>
+2) Performs complete CRUD operations using REST APIs.<br>
+3) Stores inventory data securely in Microsoft SQL Server.<br>
+4) Demonstrates backend development using FastAPI.<br>
+5) Provides an easy-to-use responsive web interface.<br>
+6) Enables API testing through Swagger UI.<br>
 Walkthrough of Key Features<br>
 🔹 Dashboard<br>
 Responsive user interface<br>
@@ -84,4 +84,5 @@ Provides hands-on experience in backend development using FastAPI.<br>
 Improves understanding of full-stack application architecture.<br>
 6️⃣ Screenshot of Dashboard <br>
 
-![Overview Dashboard](https://github.com/ShubhamW1107/spotify-listening-analytics-dashboard/blob/main/Spotify_Dashboard.jpg)<br>
+![Home Dashboard](https://github.com/ShubhamW1107/spotify-listening-analytics-dashboard/blob/main/Spotify_Dashboard.jpg)<br>
+![Home Dashboard](https://github.com/ShubhamW1107/spotify-listening-analytics-dashboard/blob/main/Spotify_Dashboard.jpg)<br>
